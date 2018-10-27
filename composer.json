@@ -1,0 +1,6 @@
+{
+    "require": {
+        "phpmailer/phpmailer": "^6.0",
+        "ressio/pharse": "^0.2.0"
+    }
+}

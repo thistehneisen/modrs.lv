@@ -1,0 +1,21 @@
+{
+    "name": "ressio/pharse",
+    "version": "0.2.0",
+    "type": "library",
+    "description": "Fastest PHP HTML Parser",
+    "keywords": ["dom", "html", "html5", "parser", "php"],
+    "homepage": "https://github.com/ressio/pharse",
+    "license": ["GPL", "Artistic"],
+    "authors": [
+        {
+            "name": "RESS.IO Team",
+            "homepage": "https://github.com/ressio/pharse"
+        }
+    ],
+    "require": {
+        "php": ">=5.0.0"
+    },
+    "autoload": {
+        "classmap": [""]
+    }
+}
